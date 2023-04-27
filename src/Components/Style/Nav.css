@@ -1,0 +1,49 @@
+.NavOuterDiv {
+    height: 10vh;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.logoDiv {
+    height: 100%;
+    width: 20%;
+    margin-left: 20px;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    color: gray;
+}
+
+.menuDiv {
+    height: 100%;
+    width: 30%;
+}
+
+.menuDiv ul {
+    height: 100%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.menuDiv ul li {
+    list-style: none;
+    font-size: 1.3rem;
+    font-weight: 700;
+}
+
+.symbolDiv {
+    height: 100%;
+    width: 10%;
+    margin-right: 40px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.icon {
+    color: gray;
+    font-size: 1.5rem;
+}

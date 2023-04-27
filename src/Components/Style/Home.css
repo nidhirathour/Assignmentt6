@@ -1,0 +1,43 @@
+.HomeOuterDiv {
+    height: 60vh;
+    width: 100%;
+    display: flex;
+    align-items: center;
+}
+
+.textDiv {
+    height: 80%;
+    width: 40%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: flex-start;
+    padding-left: 50px;
+    padding-right: 30px;
+}
+
+.dotDiv {
+    margin-top: 20px;
+    height: 20%;
+    width: 60%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.dotDiv p {
+    border-radius: 50%;
+}
+
+.imageDiv {
+    height: 100%;
+    width: 60%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.imageDiv img {
+    height: 95%;
+    width: 90%;
+}

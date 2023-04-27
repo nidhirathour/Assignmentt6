@@ -1,0 +1,14 @@
+.FooterOuterDiv {
+    height: 30vh;
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    background-color: #323232;
+}
+
+.footerDiv {
+    color: white;
+    height: 100%;
+    width: 25%;
+    padding-top: 20px;
+}
